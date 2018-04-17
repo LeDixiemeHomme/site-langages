@@ -1,0 +1,56 @@
+body
+{
+	background-image: url("pictures/fond_site1.jpg");
+	background-attachment: fixed;
+	
+}
+.photo1
+{
+	display: inline;
+	text-align: center;
+}
+.photosettitreenligne1
+{
+	display: inline;
+	text-align: center;
+	margin-left: none ;
+	margin-right: none ;
+	position: absolute;
+}
+.titre1
+{
+	font-size: 35px;
+	text-align: center;
+	display: block;
+}
+.paragraphe1
+{
+	text-align: center;
+	font-size: 18px;
+}
+.leslangages
+{
+	color: FF0000;
+	text-align: center;
+}
+.paragraphe2
+{
+	text-align: center;
+	font-size: 17px;
+}
+.liste1
+{
+	text-align: center;
+	list-style: none;
+	color: #FF0000;
+	font-weight:bold;
+	font-size: 20px;
+}
+ul li a:hover{
+	color: #B22222;
+}
+.photosenligne2
+{
+	display: inline;
+	text-align: center;
+}
